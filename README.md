@@ -1,2 +1,2 @@
 # liskApp
-First Lisk Application
+First Basic Lisk Application
