@@ -1,1 +1,1 @@
-Vivek Ausekar:Basic Lisk Application Stucture
+Basic Lisk Application Stucture
