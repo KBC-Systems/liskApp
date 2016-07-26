@@ -1,2 +1,1 @@
-# liskApp
-First Basic Lisk Application
+Basic Lisk Application Structure.
